@@ -1,8 +1,16 @@
-## 👋 Olá, tudo bem? Bem vindo ao meu Git Hub
+<div align="center">
+  <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&repeat=false&color=A020F0&center=true&vCenter=true&random=false&width=524&lines=Oi,+eu+sou+a+Paola+Duarte!" alt="Typing SVG - Isabelle Moreira Maciel">
+  </a>
+</div>
 
-Oi, eu sou a **Paola Duarte de Matos Peres**!  
+<div>
+<img align="right" width="26%" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+</div>
 
-💻 Estudante de **Ciênia da Computação** com formação prévia em Design Gráfico.
+💻 Bacharelado em Ciência da Computação - 4° período  
+💻 Bacharelado em Tecnologia - Design Gráfico - ECDD  
+💻
 
 🚀 Possuo interesse em desenvolvimento de software, análise e modelagem de banco de dados e
 segurança da informação. Apresento perfil analítico, organização, facilidade de aprendizado e
